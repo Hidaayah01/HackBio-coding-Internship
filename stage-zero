@@ -1,1 +1,5 @@
-extra task
+team_serine=[{"Name":"Hidaayah Jimoh-Abdulghaffaar", "Slack username":"Hidaayah", "Email":"hidaayah01@gmail.com", "Hobby":"Watching movies", "Country":"Nigeria", "Discipline":"Neuroscience","Preferred programming language":"Python"},
+{"Name":"Oluwafemi Agosile", "Slack username":"Oluwafemi", "Email":"agosileoluwafemi@gmail.com", "Hobby":"Travelling", "Country":"Nigeria", "Discipline":"Biochemistry","Preferred programming language":"Python"},
+{"Name":"Oluwakayode Obisanya", "Slack username":"kayobis", "Email":"obisanya001@gmail.com", "Hobby":"Playing football", "Country":"Nigeria", "Discipline":"Medical Laboratory Science","Preferred programming language":"R"},
+{"Name":"Adebisi Aderinsola", "Slack username":"Aderinsola", "Email":"adebisiaderinsola@gmail.com", "Hobby":"Fashion", "Country":"Nigeria", "Discipline":"Biochemistry","Preferred programming language":"Python"},
+{"Name":"Ifeoluwa Esan", "Slack username":"Ife", "Email":"oreoluwaesan@gmail.com", "Hobby":"Music", "Country":"UK", "Discipline":"Biotechnology and Bioinformatics","Preferred programming language":"R"}]
